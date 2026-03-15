@@ -1,12 +1,12 @@
-# ⚡ Hola, soy Gustavo Cabrera (TavoTksh1) 🚀
+#  Hola, soy Gustavo Cabrera (TavoTksh1) 🚀
 
-### 👨‍💻 Data Scientist & AI Engineer en formación | Cybersecurity Enthusiast
+###  Data Scientist & AI Engineer en formación | Cybersecurity Enthusiast
 
 Soy un apasionado por transformar datos en decisiones y sistemas vulnerables en fortalezas. Actualmente enfocado en el desarrollo de modelos de Machine Learning avanzados y en la optimización de infraestructura cloud.
 
 ---
 
-### 🛠️ Lo que domino (Tech Stack)
+###  Lo que domino (Tech Stack)
 
 | **Dominio** | **Tecnologías & Herramientas** |
 |----------------------|----------------------------------------------------------------------------------------------------|
@@ -17,7 +17,7 @@ Soy un apasionado por transformar datos en decisiones y sistemas vulnerables en 
 
 ---
 
-### 🏆 Proyectos Destacados
+###  Proyectos Destacados
 
 * **[Sentimientos800](https://github.com/TavoTksh1/sentiment-classification-nlp):** Optimización extrema de modelos de clasificación de sentimientos mediante NLP. *Target: F1-Score > 0.80*.
 * **Análisis Forense y Explotación:** Reportes técnicos de vulnerabilidades (MS17-010) en entornos controlados y mitigación de brechas.
@@ -25,7 +25,7 @@ Soy un apasionado por transformar datos en decisiones y sistemas vulnerables en 
 
 ---
 
-### 📊 Mis Estadísticas
+###  Mis Estadísticas
 
 <p align="left">
   <img width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TavoTksh1&layout=compact&theme=tokyonight&hide_border=true" />
@@ -33,11 +33,11 @@ Soy un apasionado por transformar datos en decisiones y sistemas vulnerables en 
 
 ---
 
-### 🤝 Conectemos
+###  Conectemos
 
-* 🎯 **Meta actual:** Perfeccionando modelos de Deep Learning y explorando seguridad ofensiva.
-* 💬 **Hablemos de:** ML Ops, optimización de HyperOS, entrenamiento para hipertrofia o streaming.
-* 📫 **LinkedIn:** [Tu perfil de LinkedIn aquí]
+*  **Meta actual:** Perfeccionando modelos de Deep Learning y explorando seguridad ofensiva.
+*  **Hablemos de:** ML Ops, optimización de HyperOS, entrenamiento para hipertrofia o streaming.
+*  **LinkedIn:** [Tu perfil de LinkedIn aquí]
 
 ---
 <p align="center">
