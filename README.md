@@ -28,7 +28,6 @@ Soy un apasionado por transformar datos en decisiones y sistemas vulnerables en 
 ### 📊 Mis Estadísticas
 
 <p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=TavoTksh1&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=false" />
   <img width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TavoTksh1&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
